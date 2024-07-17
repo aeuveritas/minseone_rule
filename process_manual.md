@@ -122,6 +122,9 @@
 </figure>
 <figure>
   <img src="images/impeachment_2.png" alt="탄핵">
+</figure>
+<figure>
+  <img src="images/impeachment_3.png" alt="탄핵">
   <figcaption>그림2. 민서네 위원장의 탄핵절차 흐름도</figcaption>
 </figure>
 
