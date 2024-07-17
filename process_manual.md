@@ -83,11 +83,11 @@
 2. 운영 위원은 자신이 맡은 제안·기획 업무가 성공적으로 완료될 수 있도록 전문성과 열정을 바탕으로 최선을 다해야 한다.
 
 <figure>
-  <img src="images/process_1.png" alt="제안1">
+  <img src="images/process_1.svg" alt="제안1" width="70%">
 </figure>
 
 <figure>
-  <img src="images/process_2.png" alt="제안2">
+  <img src="images/process_2.svg" alt="제안2" width="47%">
   <figcaption>그림1. 활동 제안과 실행 절차 흐름도</figcaption>
 </figure>
 
@@ -150,13 +150,13 @@
 민서네 위원장이 개인적 사유나 불가항력적 상황으로 인해 직무 수행이 불가능하다고 판단할 경우, 민서네 부위원장에게 모든 권한을 위임하고 사임할 수 있다.
 
 <figure>
-  <img src="images/impeachment_1.png" alt="탄핵1">
+  <img src="images/impeachment_1.svg" alt="탄핵1" width="47%">
 </figure>
 <figure>
-  <img src="images/impeachment_2.png" alt="탄핵">
+  <img src="images/impeachment_2.svg" alt="탄핵" width="47%">
 </figure>
 <figure>
-  <img src="images/impeachment_3.png" alt="탄핵">
+  <img src="images/impeachment_3.svg" alt="탄핵" width="47%">
   <figcaption>그림2. 민서네 위원장의 탄핵절차 흐름도</figcaption>
 </figure>
 
@@ -169,7 +169,7 @@
 5. 비상대책위원장이 위원장 선거에 출마하고자 할 경우, 현 운영 위원 중 1인에게 비상대책원장직을 이양해야 한다.
 
 <figure>
-  <img src="images/new_leader.png" alt="신임 위원장">
+  <img src="images/new_leader.svg" alt="신임 위원장"  width="23%">
   <figcaption>그림3. 신임 민서네 위원장의 선출 절차 흐름도</figcaption>
 </figure>
 
@@ -211,6 +211,6 @@
 3. 사임하는 민서네 부위원장 및 운영 위원은 사임 일시에 맞춰 서울시당에 사직서를 제출한다.
 
 <figure>
-  <img src="images/fire.png" alt="해임">
+  <img src="images/fire.svg" alt="해임" width="47%">
   <figcaption>그림4. 민서네 부위원장 및 운영 위원의 해임 절차 흐름도</figcaption>
 </figure>

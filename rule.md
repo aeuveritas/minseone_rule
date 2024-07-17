@@ -102,7 +102,7 @@
 민서네는 민서네 위원장, 민서네 부위원장, 운영 위원과 민서네 위원들로 구성된 여러 위원회를 통해 운영되며, 민서네 위원장은 조직도에 소속 위원들의 명단을 포함해 공지해야 한다.
 
 <figure>
-  <img src="images/minseone_org.png" alt="민서네 구조">
+  <img src="images/minseone_org.png" alt="민서네 구조" width="90%">
   <figcaption>그림1. 민서네의 구조</figcaption>
 </figure>
 
